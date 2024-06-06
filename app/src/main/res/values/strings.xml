@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Guia2Perido4</string>
+    <string name="boton_nuevo_registro">GUARDAR</string>
+    <string name="texto_indicacion">Digite un mensaje para ser guardado en la base de datos</string>
+    <string name="boton_main">Crear nuevo registro</string>
+</resources>
